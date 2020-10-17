@@ -1,9 +1,13 @@
-# Good Readme Generator
+A command-line application that dynamically generates a professional README.md from a user's input using the Inquirer package.
+
+run node index.js
+
+# Good read me
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
-quickly create a professional README for a new project
+quickly generator a read.me
 
 ## Table of Contents 
 
@@ -24,7 +28,7 @@ quickly create a professional README for a new project
 To install necessary dependencies, run the following command:
 
 ```
-npm i
+developer
 ```
 
 ## Usage
@@ -44,7 +48,7 @@ This project is licensed under the MIT license.
 To run tests, run the following command:
 
 ```
-npm test
+node index.js
 ```
 
 ## Questions
